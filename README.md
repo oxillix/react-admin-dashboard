@@ -18,5 +18,5 @@ npm start
 ```
 3. (optional) create a production build with
 ```bash
-npm start
+npm run build
 ```
