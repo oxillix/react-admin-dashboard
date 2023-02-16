@@ -8,15 +8,19 @@ Link to app: [https://admin-dasboard.netlify.app/](https://admin-dasboard.netlif
 ![Preview](preview.png)
 
 ### Instructions
-1. Clone the project with
+1. Clone the project
 ```bash
 git clone https://github.com/oxillix/react-admin-dashboard.git
 ```
-2. Start the app with
+2. Install npm packages
+```bash
+npm install
+```
+3. Start the app
 ```bash
 npm start
 ```
-3. (optional) create a production build with
+4. (optional) create a production build
 ```bash
 npm run build
 ```
